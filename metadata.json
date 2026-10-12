@@ -1,0 +1,6 @@
+{
+  "name": "Glenview PSDS School App",
+  "description": "Official communication, academic, and school life portal for Glenview PSDS parents, learners, and educators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
